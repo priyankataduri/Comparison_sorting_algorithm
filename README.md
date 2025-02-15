@@ -7,7 +7,7 @@ The file comparison_sorting_algorithms.py includes whole code in one .py file.
 Step 2:
 Run the file comparison_sorting_algorithms.py.
 
-# Two different graphs will be popped out
+# Three different graphs will be popped out
 1. Random Sorted
 2. Sorted
 3. Reversely Sorted
