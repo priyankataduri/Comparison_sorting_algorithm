@@ -1,5 +1,6 @@
 # Comparison_sorting_algorithm
-Instructions
+Instructions:
+
 Step 1:
 The file comparison_sorting_algorithm.py includes whole code in one .py file.
 Step 2:
