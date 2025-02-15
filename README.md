@@ -8,5 +8,6 @@ Step 2:
 Run the file comparison_sorting_algorithms.py.
 
 # Two different graphs will be popped out
-1. Sorted
-2. Reversely Sorted
+1. Random Sorted
+2. Sorted
+3. Reversely Sorted
